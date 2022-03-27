@@ -10,9 +10,9 @@ The purpose of this project is to help us support our business idea for a Bike-S
 [Link to Tableau Story](https://public.tableau.com/app/profile/mubeen.ahmed.khan/viz/NYCBikeShareProgram/NYCBikeChallenge) | [Alternative Link](https://public.tableau.com/app/profile/mubeen.ahmed.khan/viz/RBC-Module-14-Tableau-Challenge/NYCBikeShareChallenge)
 
 ### Files Used:
-[Bike Dataset](201908-citibike-tripdata.csv) | Original Dataset.
-[Jupyter Notebook Script](NYC_CitiBike_Challenge.ipynb) | For modifying data in the `tripduration` column to `Date-Time`.
-[Bike Revised Dataset](201908-citibike-tripdataREVISED.csv) | After adding another Date-time column using Python & Pandas from the epoch time in `tripduration` column.
+* [Bike Dataset](201908-citibike-tripdata.csv) | Original Dataset.
+* [Jupyter Notebook Script](NYC_CitiBike_Challenge.ipynb) | For modifying data in the `tripduration` column to `Date-Time`.
+* [Bike Revised Dataset](201908-citibike-tripdataREVISED.csv) | After adding another Date-time column using Python & Pandas from the epoch time in `tripduration` column.
 
 ### Results
 * Here we can see that Bikes can be readily available to customers when needed. Our results show that 49% of the rides were under 10 minutes (1.1 M vs 2.3 M)
