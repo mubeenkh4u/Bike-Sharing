@@ -22,6 +22,7 @@ The purpose of this project is to help us support our business idea for a Bike-S
 ![Image2](Images/02-Checkout-Times-by-Gender.png)
 
 * The third - heatmap shows us that most of the rides that occur during the weekdays are during the commute hours of 8-9 AM and 5-7 PM. Additionally we see high usage during afternoon on weekends.
+
 ![Image3](Images/03-Trips-by-Weekday-per-Hour.png)
 
 * The following heatmap shows us the trips by gender for the same. Male riders are more inclined to use the bikeshare program to commute to and from work as well as during the weekends.
