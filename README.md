@@ -1,4 +1,4 @@
-# RBC-Module-14-NY-Citibike-with-Tabelau
+# Bike-Sharing-with-Tabelau
 
 ## Overview:
 In this project we look at the stats of Bike-Share program in NYC and use it to support our ideas for starting a Bike-Share program in `Des Moines`. To achieve this we will use one of the most promising Data Visualization Tools out there, namely `Tableau`.
